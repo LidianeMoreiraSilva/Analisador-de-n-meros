@@ -1,0 +1,45 @@
+body {
+  background-color: rgba(112, 5, 252, 0.849);
+  background-image: linear-gradient( to right, rgba(98, 0, 255, 0.822), transparent, rgba(140, 0, 255, 0.822) );
+  font: normal 15pt Arial;
+}
+
+header{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+section{
+   background-color: rgb(255, 255, 255);
+   border-radius: 10px;
+   padding: 15px;
+   width: 500px;
+   margin: auto;
+   box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.363);
+
+} 
+input#button{
+  background-color: rgba(255, 251, 0, 0.205);
+  border-color: beige;
+  font: normal 10pt arial;
+  border-radius: 20px;
+  width: 80px;
+  height: 30px;
+ }
+ 
+
+select#lista{
+  width: 150px;
+}
+
+footer{
+    color: rgb(204, 203, 203);
+    text-align: center;
+    font-style: italic;
+}
+
+div#res{
+  font: normal 13.5pt arial;
+}
